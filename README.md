@@ -1,7 +1,6 @@
 # Data_Analysis_Exercise
 
-This project analyzes the visitation of stores made by users, given GPS signals of users, and outline of the stores (referred to as polygons).
-It also explores the demo-behavioural relationship between user affinities and specific stores they have visited. The datasets contains randomly selected data for the period of January 1st 2021 to January 31st 20121.
+This project analyzes the visitation of stores made by users, given GPS signals of users, and outline of the stores (referred to as polygons). It also explores the demo-behavioural relationship between user affinities and specific stores they have visited. The datasets contains randomly selected data for the period of January 1st 2021 to January 21st 20121. A copy of the jupyter notebook has been provided and a powerpoint presentation was shared to show a detailed analysis of the data. To view more visualizations, visit mzy Tableau public page (https://public.tableau.com/profile/gloria.amakude#!/).
 
 
 ## What Software Do you Need?
